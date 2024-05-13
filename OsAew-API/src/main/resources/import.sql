@@ -1,0 +1,1 @@
+insert into cliente (nome, fone, email) values ('Wagner', '999999999', 'aewinformatica@gmail.com');
