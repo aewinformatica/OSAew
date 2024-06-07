@@ -5,10 +5,10 @@ import java.time.OffsetDateTime;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.aewinformatica.osaew.api.model.Comentario;
 import br.com.aewinformatica.osaew.domain.exception.EntidadeNaoEncontradaException;
 import br.com.aewinformatica.osaew.domain.exception.NegocioException;
 import br.com.aewinformatica.osaew.domain.model.Cliente;
+import br.com.aewinformatica.osaew.domain.model.Comentario;
 import br.com.aewinformatica.osaew.domain.model.OrdemServico;
 import br.com.aewinformatica.osaew.domain.model.StatusOrdemServico;
 import br.com.aewinformatica.osaew.domain.repository.ClienteRepository;

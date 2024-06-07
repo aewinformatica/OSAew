@@ -1,8 +1,7 @@
-package br.com.aewinformatica.osaew.api.model;
+package br.com.aewinformatica.osaew.domain.model;
 
 import java.time.OffsetDateTime;
 
-import br.com.aewinformatica.osaew.domain.model.OrdemServico;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

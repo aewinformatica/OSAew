@@ -5,7 +5,6 @@ import java.time.OffsetDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.aewinformatica.osaew.api.model.Comentario;
 import br.com.aewinformatica.osaew.domain.exception.NegocioException;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
